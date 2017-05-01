@@ -2,7 +2,7 @@
 A simple iOS app demonstrating how to host a SpriteKit view inside a regular UI app.
 
 
-Typically a SpriteKit app will occupy the entire device screen. It also has no hooks into the standard iOS UI and buttons, tables, etc all have to be created from scratch. There is however a technique under which a standard iOS UI app can host a game view. For details take a look at: . 
+Typically a SpriteKit app will occupy the entire device screen. It also has no hooks into the standard iOS UI and buttons, tables, etc all have to be created from scratch. There is however a technique under which a standard iOS UI app can host a game view. For details take a look at: http://swiftnotions.com/2017/04/27/ui-hosted-spritekit-view-tutorial-part-1/. 
 
 This project was done in Xcode 8.3.2 and tested under iOS 10.3.
 
