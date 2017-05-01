@@ -8,8 +8,7 @@ has no hooks into the standard iOS UI and buttons, tables, etc all have
 to be created from scratch. There is however a technique under which a
 standard iOS UI app can host a game view. For details and a step-by-step
 guide take a look at the [blog
-post](http://swiftnotions.com/2017/04/27/ui-hosted-spritekit-view-
-tutorial- part-1/) for this project.
+post](http://swiftnotions.com/2017/04/27/ui-hosted-spritekit-view-tutorial-part-1/) for this project.
 
 This project was done in Xcode 8.3.2 and tested under iOS 10.3.
 
@@ -27,6 +26,7 @@ distribute, sublicense, and/or sell copies of the Software, and to
 permit persons to whom the Software is furnished to do so, subject to
 the following conditions:
 
+
 The above copyright notice and this permission notice shall be included
 in all copies or substantial portions of the Software.
 
@@ -37,4 +37,3 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
